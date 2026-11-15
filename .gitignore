@@ -218,3 +218,17 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Jupyter Notebook
+.ipynb_checkpoints
+events.*
+
+# Others
+.vscode
+.DS_Store
+
+# Directory
+datasets
+output/*.pth
+output/*.pt
+output/*.ckpt
